@@ -34,7 +34,7 @@ The HR department faces several challenges in understanding employee attrition t
 
 ## 📊 Dashboard Overview
 
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](https://github.com/Debyvypth1862/Power-BI-Dashboard/blob/main/Image/HRAnalytics.png)
 
 ---
 
