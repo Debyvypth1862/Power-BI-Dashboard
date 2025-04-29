@@ -21,4 +21,4 @@ Got it! Here's a **cleaned-up and professional version** of your README section 
 
 ## Dashboard
 
-![Road Accident Report Dashboard](Road Accident Report Dashboard/Image/RoadAccident.png)
+(Image/RoadAccident.png)
