@@ -19,10 +19,10 @@
 
 ### 🏠 Home Dashboard
 
-![Home Dashboard]()
+![Home Dashboard](https://github.com/Debyvypth1862/Power-BI-Dashboard/blob/main/Image/PizzaSales.png)
 
 ---
 
 ### ⭐ Best Sellers / 🚫 Worst Sellers Dashboard
 
-![Best/Worst Sellers]()
+![Best/Worst Sellers](https://github.com/Debyvypth1862/Power-BI-Dashboard/blob/main/Image/PizzaSales.png)
