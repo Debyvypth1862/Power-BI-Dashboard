@@ -21,4 +21,4 @@ Got it! Here's a **cleaned-up and professional version** of your README section 
 
 ## Dashboard
 
-(Image/RoadAccident.png)
+![Road Accident Dashboard](https://github.com/Debyvypth1862/Power-BI-Dashboard/blob/main/Image/RoadAccident.png)
