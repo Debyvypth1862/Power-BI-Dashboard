@@ -1,16 +1,40 @@
-## Problem Statement:
-* ### _Attrition by Gender_
-   The HR Department faces challenges in understanding the Attrition Patterns based on Gender, making it difficult to identify any Gender-Related Disparties and Implement Targeted Retention Strategies.
- * ### _Department-wise Attrition_
-   The HR department lacks visualizations to showcase attrition rates across different departments. This hinders their ability to identify departments with higher attrition rates and address any underlying issues or concerns effectively.
- * ### _Number of Employees by Age Group_
-   The HR department requires visual representations to analyze the distribution of employees across various age groups. This helps in assessing workforce demographics, identifying any age-related gaps or imbalances, and implementing targeted HR policies or programs.
- * ### _Job Satisfaction Ratings_
-   The HR department lacks visualizations to represent job satisfaction ratings, hindering their ability to measure employee engagement and overall job satisfaction levels effectively.
- * ### _Education Field-wise Attrition_
-   The HR department requires visual representations to analyze attrition rates based on education fields. This helps identify specific educational backgrounds that may be associated with higher attrition, enabling the organization to tailor retention strategies accordingly.
- * ### _Attrition Rate by Gender for Different Age Group_
-   The HR department lacks visualizations that display attrition rates based on gender and different age groups. This makes it challenging to identify any age and gender-related attrition trends, preventing the organization from implementing targeted retention strategies for specific employee segments.
-## Dashboard:
+# 📈 HR Analytics - Employee Attrition Analysis
 
-![image](https://github.com/shridhar1504/Power-BI-Visualization-Project/assets/113985416/1d7c736f-c6b2-440f-8372-f01686690a77)
+## 📝 Problem Statement
+
+The HR department faces several challenges in understanding employee attrition trends and needs actionable insights to improve retention strategies. This project addresses the following key problems:
+
+---
+
+### 🔹 Attrition by Gender
+- Difficulty in identifying gender-related disparities in attrition rates.
+- Lack of targeted retention strategies based on gender analysis.
+
+### 🔹 Department-wise Attrition
+- Absence of clear visualizations highlighting department-specific attrition rates.
+- Challenges in addressing department-level issues contributing to higher attrition.
+
+### 🔹 Number of Employees by Age Group
+- Need for visual representations to understand workforce distribution across different age groups.
+- Identification of potential age-related gaps or imbalances in the workforce.
+
+### 🔹 Job Satisfaction Ratings
+- Lack of visibility into employee engagement and overall satisfaction levels.
+- Need for effective measurement of job satisfaction to inform HR initiatives.
+
+### 🔹 Education Field-wise Attrition
+- Requirement to analyze attrition patterns based on employees’ education fields.
+- Tailoring retention programs based on educational backgrounds associated with higher attrition.
+
+### 🔹 Attrition Rate by Gender Across Age Groups
+- Need for insights into how attrition varies by both gender and age group.
+- Importance of targeted retention initiatives for specific employee segments.
+
+---
+
+## 📊 Dashboard Overview
+
+![HR Analytics Dashboard]()
+
+---
+
