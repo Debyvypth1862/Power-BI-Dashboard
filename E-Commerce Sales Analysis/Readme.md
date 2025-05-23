@@ -17,4 +17,4 @@ This project focuses on analyzing sales and profit data from a US-based e-commer
 
 ### Dashboard:
 
-![E-Commerce Sales Dashboard](https://github.com/Debyvypth1862/Power-BI-Dashboard/blob/main/Image/Ecommerce_analysis.png)
+![E-Commerce Sales Dashboard](https://github.com/Debyvypth1862/Power-BI-Dashboard/blob/main/Image/Ecommerce_analysittts.png)
